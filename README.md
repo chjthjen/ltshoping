@@ -1,8 +1,8 @@
 # LonelyShop
 LonelyShop là shop bán đồ thương hiệu có thể là thời trang, nội thất, vv... Đưa sản phẩm lên cho người dùng đặt hàng.
 
-Download link: https://www.mediafire.com/file/6srq5j71bfjl0b7/LonelyShop.apk/file 
 
+### <a href="https://www.mediafire.com/file/6srq5j71bfjl0b7/LonelyShop.apk/file " target="_blank">Download link</a>
 # Ảnh demo
 
 ### Về chức năng đăng nhập cho người dùng: Đăng ký, đăng nhập, đăng xuất, quên mật khẩu
