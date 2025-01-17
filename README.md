@@ -1,20 +1,4 @@
-# LonelyShop
-LonelyShop là shop bán đồ thương hiệu có thể là thời trang, nội thất, vv... Đưa sản phẩm lên cho người dùng đặt hàng.
-
-
-### <a href="https://www.mediafire.com/file/6srq5j71bfjl0b7/LonelyShop.apk/file " target="_blank">Download link</a>
-# Ảnh demo
-
-### Về chức năng đăng nhập cho người dùng: Đăng ký, đăng nhập, đăng xuất, quên mật khẩu
-
-
-
-### Giao diện Shop: Tìm kiếm, thêm sản phẩm vào giỏ hàng, xem chi tiết sản phẩm, số lượng tăng giảm tùy thích, địa chỉ, xem trạng thái mua hàng
-
-
-
-### Thay đổi thông tin hình ảnh tên
-
+# Re-upload
 
 # Công cụ và thư viện đã dùng
 - Navigation Component: Một Activity chứa nhiều Fragment thay vì tạo nhiều Activity. (Quản lý điều hướng giữa các phần của ứng dụng mà không cần tạo nhiều Activity.)
